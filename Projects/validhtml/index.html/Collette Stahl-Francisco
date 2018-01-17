@@ -1,0 +1,47 @@
+<html>
+<h1>Welcome </h1>
+
+<p>My name is Collette.....
+<br>
+.....
+<br>
+.....
+<br>
+.....
+</br>
+</p>
+
+<h2>Skills</h2>
+
+<p> The skills I currently have are...</p>
+
+<h2>Software/Hardware</h2>
+
+<ul>
+  <li>software</li>
+  <li>hardware</li>
+  <li>software</li>
+</ul>
+</p>
+
+<h2>Social Media/Web</h2>
+
+<p>Social Meida and Web progress...</p>
+
+<h2>Work Samples</h2>
+
+<p>Some of my work samples are...</p>
+
+<img src="http://planetoftheweb.com/i/photo.jpg" height="100">
+
+<img src="http://planetoftheweb.com/i/photo.jpg" height="100">
+
+<img src="http://planetoftheweb.com/i/photo.jpg" height="100">
+
+<br>
+
+<img src="http://planetoftheweb.com/i/photo.jpg" height="100">
+
+<img src="http://planetoftheweb.com/i/photo.jpg" height="100">
+
+</html>
